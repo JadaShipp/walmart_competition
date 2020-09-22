@@ -1,0 +1,1 @@
+This is a repo dedicated to working on the kaggle.com walmart competition.
